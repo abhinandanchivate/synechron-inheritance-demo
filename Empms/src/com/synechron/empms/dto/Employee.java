@@ -10,7 +10,7 @@ import lombok.ToString;
 
 public class Employee {
  
-	public float calculateSalary() {
+	public  float calculateSalary() {
 		return this.empSalary + 100.0f;
 	}
 	
